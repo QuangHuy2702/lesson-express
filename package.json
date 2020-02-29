@@ -1,0 +1,22 @@
+{
+  "name": "lesson-1",
+  "version": "1.0.0",
+  "description": "Lesson1 express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuangHuy2702/lesson-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuangHuy2702/lesson-express/issues"
+  },
+  "homepage": "https://github.com/QuangHuy2702/lesson-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
